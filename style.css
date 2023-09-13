@@ -1,0 +1,115 @@
+/* Váriaveis */
+
+:root {
+  --cinza-fundo: #f7f7f7;
+  --cinza-texto: #c6c6c6;
+  --vermelho: #ee2211;
+  ---fonte: Arial;
+}
+
+
+/* Estilos */
+
+body {
+  font-family: var(---fonte);
+  background-color: var(--cinza-fundo);
+}
+
+p {
+  font-size: 20px;
+}
+
+.nav {
+  padding: 35px 0px 35px 0px;
+}
+
+.logo {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.nav-flexbox {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+  justify-content: center;
+}
+
+.nav-flexbox a {
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: white;
+  max-width: 1000px;
+  margin: auto;
+  place-items: center;
+}
+
+.main {
+  background-color: white;
+}
+
+.info {
+  padding: 50px;
+  text-align: end;
+}
+
+.descricao {
+  padding-bottom: 15px;
+}
+
+.main-image {
+  max-width: 100%;
+}
+
+.botao-saiba {
+  background-color: var(--vermelho);
+  padding: 15px 20px;
+  border-radius: 4px;
+  color: var(--cinza-fundo);
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.div-texto-grande {
+  background: var(--cinza-fundo);
+  height: 100%;
+  text-align: end;
+}
+
+.texto-grande {
+  font-size: 64px;
+  color: var(--cinza-texto);
+  text-transform: uppercase;
+  padding: 25px;
+}
+
+.flex {
+  padding: 60px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.titulo-menu {
+  font-weight: bold;
+}
+
+.descricao-menu {
+  margin: 0px 40px;
+}
+
+footer {
+  background-color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 50px;
+}
