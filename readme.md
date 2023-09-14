@@ -4,7 +4,7 @@
 
 - Criado em 13/09/2023
 
-- Este é um projeto que foi desenvolvido como parte do curso de HTML e CSS Para Iniciantes da Origamid, com o pricipal objetivo de ajudar os alunos a desenvolverem suas habilidades em CSS Grid e Flexbox.  
+- Este é um projeto que foi desenvolvido como parte do curso de HTML e CSS Para Iniciantes da Origamid, com o principal objetivo de ajudar os alunos a desenvolverem suas habilidades em CSS Grid e Flexbox.  
 
 ## 💻 Funcionalidades do projeto
 
