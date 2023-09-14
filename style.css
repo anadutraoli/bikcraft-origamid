@@ -44,6 +44,15 @@ p {
   color: black;
 }
 
+.nav-flexbox a:hover {
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: var(--vermelho);
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+}
+
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
