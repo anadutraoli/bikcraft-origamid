@@ -12,6 +12,8 @@
 
 - Observações: Este site foi feito 100% por mim, ainda não o corrigi com as orientações do professor, por isso contém erros.
 
+- Atualizações: Pojeto corrigido com as orientações do professor.
+
 ## 👨🏽‍💻 Tecnologias utilizadas
 
 - HTML5
