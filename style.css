@@ -103,7 +103,7 @@ p {
 }
 
 .subtitulo {
-  background: url("/img/onda.svg");
+  background: url("./img/onda.svg");
   font-size: 4rem;
   text-transform: uppercase;
   color: rgba(0, 0, 0, 0.2);
